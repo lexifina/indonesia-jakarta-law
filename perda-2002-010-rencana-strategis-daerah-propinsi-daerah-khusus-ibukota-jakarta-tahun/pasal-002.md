@@ -1,0 +1,3 @@
+# Pasal 2
+Rencana stra tegis Daerah (Renstrada) Propinsi Daerah Khusus Ibukota Jakarti Tahun 2002 - 2007, sebagaimana dimaksud dalam Pasal 1, yang terdiri dari:
+BAB I Pendahuluan BAB I I Perkembangan Propinsi DKI Jakarta 2002 - 2007 BAB III Visi dan Misi Pembangunan Propinsi DKI Jakarta BAB IV Arah Kebijakan dan Strategi BAB V Bidan Hukum, Ketentraman Ketertiban Umum dan Kesatuan Bangsa BAB VI Bidang Pemerintahan BAB VII Bidang Ekonomi BAB VIII Bidang Pendidikan dan Kesehatan BAB IX Bidang Kependudukan dan Ketenagakerjaan BABX Bidang Sosial dan Budaya BAB XI Bidang Sumber Daya Alam dan Lingkungan Hidup BAB XII Bidang Sarana dan Prasaran Kota BAB XIII Kebijakan Anggaran BAB XIV Evaluasi Kinerja BAB XV Penutup Lampiran - lampiran
