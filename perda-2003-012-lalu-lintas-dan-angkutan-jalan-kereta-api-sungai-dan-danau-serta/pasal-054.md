@@ -1,0 +1,3 @@
+# Pasal 54
+(1) Setiap pejalan kaki yang akan menyeberang di jalan wajib menyeberang pada sarana penyeberangan apabila jalan tersebut telah dilengkapi dengan sarana penyeberangan, dan apabila jalan tersebut tidak dilengkapi dengan sarana penyeberangan, pejalan kaki wajib menyeberang pada bagian jalan yang memperhatikan keselamatan dan kelancaran lalu lintas.
+(2) Setiap pejalan kaki yang berjalan di jalan wajib berjalan di atas trotoar apabila jalan tersebut telah dilengkapi dengan trotoar, dan apabila jalan tersebut tidak dilengkapi dengan trotoar, pejalan kaki wajib menggunakan bagian jalan yang paling kiri.
