@@ -1,0 +1,6 @@
+# Pasal 1
+Peraturan Daerah di bawah ini :
+a. Peraturan Daerah Propinsi Daerah Khusus Ibukota Jakarta Nomor 13 Tahun 2004 tentang Perubahan Bentuk Badan Hukum Yayasan Rumah Sakit Haji Jakarta Menjadi Perseroan Terbatas Rumah Sakit Haji Jakarta dan Penyertaan Modal Pemerintah Propinsi Daerah Khusus Ibukota Jakarta Pada Perseroan Terbatas Rumah Sakit Haji Jakarta (Lembaran Daerah Propinsi Daerah Khusus Ibukota Jakarta Tahun 2004 Nomor 68);
+b. Peraturan Daerah Propinsi Daerah Khusus Ibukota Jakarta Nomor 14 Tahun 2004 tentang Perubahan Status Hukum Unit Pelaksana Teknis Dinas Kesehatan Rumah Sakit Umum Daerah Cengkareng Menjadi Perseroan Terbatas Rumah Sakit Cengkareng dan Penyertaan Modal Pemerintah Propinsi Daerah Khusus Ibukota Jakarta Pada Perseroan Terbatas Rumah Sakit Cengkareng (Lembaran Daerah Propinsi Daerah Khusus Ibukota Jakarta Tahun 2004 Nomor 69);
+c. Peraturan Daerah Propinsi Daerah Khusus Ibukota Jakarta Nomor 15 Tahun 2004 tentang Perubahan Status Hukum Unit Pelaksana Teknis Dinas Kesehatan Rumah Sakit Umum Daerah Pasar Rebo Menjadi Perseroan Terbatas Rumah Sakit Pasar Rebo dan Penyertaan Modal Pemerintah Propinsi Daerah Khusus Ibukota Jakarta Pada Perseroan Terbatas Rumah Sakit Pasar Rebo (Lembaran Daerah Propinsi Daerah Khusus Ibukota Jakarta Tahun 2004 Nomor 70);
+dicabut dan dinyatakan tidak berlaku.
