@@ -1,0 +1,7 @@
+# Pasal 8
+Asisten Pemerintahan mempunyai tugas membantu Sekretaris Daerah dalam:
+a. memimpin penyelenggaraan fungsi tata pemerintahan, hukum, kelembagaan, ketatalaksanaan, administrasi kepala daerah dan kerjasama luar negeri;
+b. mengoordinasikan penyusunan kebijakan pelayanan administrasi DPRD, kependudukan, pencatatan sipil, penanggulangan kebakaran dan bencana, kepegawaian, kesatuan bangsa, politik, perlindungan masyarakat, pendidikan dan pelatihan pegawai, komunikasi, informatika, kehumasan, ketenteraman, ketertiban, penegakan peraturan perundang-undangan daerah, dan kewilayahan;
+c. mengoordinasikan pelaksanaan tugas pelayanan administrasi DPRD, kependudukan, pencatatan sipil, penanggulangan kebakaran dan bencana, kepegawaian, kesatuan bangsa, politik, perlindungan masyarakat, pendidikan dan pelatihan pegawai, komunikasi, informatika, kehumasan, ketenteraman, ketertiban, penegakan peraturan perundang-undangan daerah, dan kewilayahan;
+d. mengendalikan pelaksanaan tugas pelayanan administrasi DPRD, kependudukan, pencatatan sipil, penanggulangan kebakaran dan bencana, kepegawaian, kesatuan bangsa, politik, perlindungan masyarakat, pendidikan dan pelatihan pegawai, komunikasi, informatika, kehumasan, ketenteraman, ketertiban, penegakan peraturan perundang-undangan daerah, dan kewilayahan;
+e. melaksanakan tugas lain yang diberikan Sekretaris Daerah; dan f. melaporkan dan mempertanggungjawabkan pelaksanaan tugas.
