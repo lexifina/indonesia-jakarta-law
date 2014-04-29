@@ -1,0 +1,3 @@
+# Pasal 79
+(1) Penerapan sistem pengendalian Lalu Lintas Jalan berbayar pada jaringan Jalan tertentu dan/atau kawasan tertentu dan/atau waktu tertentu sebagaimana dimaksud dalam Pasal 78 ayat (2) huruf c diperuntukkan bagi peningkatan kinerja Lalu Lintas Jalan dan peningkatan pelayanan Angkutan umum sesuai dengan ketentuan peraturan perundang-undangan.
+(2) Objek pengendalian Lalu Lintas Jalan berbayar sebagaimana dimaksud dalam Pasal 78 Ayat (2) huruf c meliputi penggunaan ruas Jalan tertentu, koridor tertentu, atau kawasan tertentu pada waktu tertentu oleh Kendaraan Bermotor perseorangan atau barang.
