@@ -1,0 +1,2 @@
+# Pasal 38
+Usaha penyelenggaraan kegiatan usaha, pertemuan, perjalanan insentif, konferensi dan pameran sebagaimana dimaksud dalam Pasal 18 huruf j, merupakan usaha yang memberikan jasa bagi suatu pertemuan sekelompok orang, menyelenggarakan perjalanan insentif bagi karyawan dan mitra usaha sebagai imbalan atas prestasinya, serta menyelenggarakan pameran dalam rangka menyebarluaskan informasi dan promosi suatu barang dan jasa yang berskala nasional, regional, dan internasional.
