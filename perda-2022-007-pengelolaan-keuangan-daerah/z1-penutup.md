@@ -1,0 +1,31 @@
+# Penutup
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Provinsi Daerah Khusus Ibukota Jakarta.
+Ditetapkan di Jakarta
+pada tanggal
+30
+Desember
+2022
+Pj. GUBERNUR DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+HERU BUDI HARTONO
+Diundangkan di Jakarta
+pada tanggal
+30
+Desember
+2022
+Pj. SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+UUS KUSWANTO
+LEMBARAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA
+TAHUN
+2022
+NOMOR
+205
+Salinan sesuai dengan aslinya
+KEPALA BIRO HUKUM SEKRETARIAT DAERAH
+PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA,
+YAYAN YUHANAH
+NIP196508241994032003
+NOREG PERATURAN DAERAH PROVINSI DKI JAKARTA : (7-316/2022)

@@ -1,0 +1,2 @@
+# Pasal 68
+Pembayaran cicilan pokok utang sebagaimana dimaksud dalam Pasal 61 ayat (4) huruf a digunakan untuk menganggarkan pembayaran pokok Utang yang didasarkan pada jumlah yang harus dibayarkan sesuai dengan perjanjian pinjaman dan pelaksanaannya merupakan prioritas utama dari seluruh kewajiban Pemerintah Provinsi DKI Jakarta yang harus diselesaikan dalam tahun anggaran berkenaan berdasarkan perjanjian pinjaman.

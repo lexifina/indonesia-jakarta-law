@@ -1,0 +1,3 @@
+# Pasal 103
+(1) Penetapan rancangan Perda tentang APBD menjadi Perda dan rancangan Peraturan Gubernur tentang penjabaran APBD menjadi Peraturan Gubernur tentang penjabaran APBD merupakan tahap akhir dalam proses penetapan APBD setelah melalui tahapan penyusunan oleh Pemerintah Provinsi DKI Jakarta pembahasan bersama oleh DPRD dengan Pemerintah Provinsi DKI Jakarta, persetujuan DPRD hingga evaluasi.
+(2) Penetapan rancangan Perda tentang APBD menjadi Perda dan rancangan Peraturan Gubernur tentang Penjabaran APBD menjadi Peraturan Gubernur tentang penjabaran APBD ditandai dengan penomoran, penandatanganan, dan pengundangan ke dalam lembaran daerah dan berita daerah.
