@@ -1,0 +1,31 @@
+# Penutup
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Provinsi Daerah Khusus Ibukota Jakarta.
+Ditetapkan di Jakarta
+pada tanggal
+14
+Maret
+2023
+Pj. GUBERNUR DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+HERU BUDI HARTONO
+Diundangkan di Jakarta
+pada tanggal
+17
+Maret
+2023
+SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+JOKO AGUS SETYONO
+LEMBARAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA
+TAHUN
+2023
+NOMOR
+201
+Salinan sesuai dengan aslinya
+KEPALA BIRO HUKUM SEKRETARIAT DAERAH
+PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA,
+YAYAN YUHANAH
+NIP196508241994032003
+NOREG PERATURAN DAERAH PROVINSI DKI JAKARTA : (1-44/2023)

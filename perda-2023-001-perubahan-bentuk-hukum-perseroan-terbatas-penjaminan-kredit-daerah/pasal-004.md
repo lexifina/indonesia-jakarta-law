@@ -1,0 +1,5 @@
+# Pasal 4
+(1) Perseroan didirikan berdasarkan Akta Notaris Yualita Widyadhari, S.H. Nomor 9 Tanggal 10 November 2014 tentang Pendirian Perseroan Terbatas Penjaminan Kredit Daerah Jakarta, yang telah mendapat persetujuan dari Menteri Hukum dan Hak Asasi Manusia Republik Indonesia melalui keputusannya tanggal 13 November 2014 Nomor AHU-34446.40.10.2014, beserta perubahan Anggaran Dasar yang terakhir yang diubah sebagaimana tertuang dalam Akta Notaris Ratu Arlini Sriwahyuni Widyastuti Suhadiwiraatmaja, S.H.,M.Kn. Nomor 13 tanggal 17 November 2021, yang telah dicatatkan dalam Sistem Administrasi Badan Hukum Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia sebagaimana disebutkan dalam Surat Penerimaan Pemberitahuan Perubahan Anggaran Dasar Perseroan Terbatas Penjaminan Kredit Daerah Jakarta Nomor AHU-AH.01.03-0476050 Tahun 2021 tertanggal 22 November 2021.
+(2) Terhadap Perseroan sebagaimana dimaksud pada ayat (1), berlaku Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, Anggaran Dasar dan peraturan perundang-undangan lainnya.
+BAB III
+NAMA, TEMPAT KEDUDUKAN, DAN JANGKA WAKTU BERDIRI
