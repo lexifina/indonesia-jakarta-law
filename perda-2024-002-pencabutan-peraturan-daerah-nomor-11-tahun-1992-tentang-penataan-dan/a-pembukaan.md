@@ -1,0 +1,20 @@
+# Pembukaan
+GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
+PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA
+NOMOR 2 TAHUN 2024
+TENTANG
+PENCABUTAN PERATURAN DAERAH NOMOR 11 TAHUN 1992 TENTANG PENATAAN DAN PENGELOLAAN KEPULAUAN SERIBU KOTAMADYA JAKARTA UTARA
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA,
+Menimbang : a. bahwa berdasarkan Pasal 7 ayat (2) Undang-Undang Nomor 27 Tahun 2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang dan Pasal 13 ayat (4) Peraturan Pemerintah Nomor 21 Tahun 2021 tentang Penyelenggaraan Penataan Ruang, pengaturan perairan pesisir yang dilaksanakan sesuai dengan norma, standar, prosedur, dan kriteria diatur melalui peraturan menteri;
+b. bahwa materi Peraturan Daerah Nomor 11 Tahun 1992 tentang Penataan dan Pengelolaan Kepulauan Seribu Kotamadya Jakarta Utara sudah tidak sesuai dengan ketentuan peraturan perundang-undangan di bidang penataan ruang, dan pengaturan mengenai penataan ruang wilayah Kepulauan Seribu sebagai bagian wilayah administratif Daerah Khusus Ibukota Jakarta telah diintegrasikan ke dalam Rencana Detail Tata Ruang Wilayah Perencanaan Provinsi Daerah Khusus Ibukota Jakarta;
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pencabutan Peraturan Daerah Nomor 11 Tahun 1992 tentang Penataan dan Pengelolaan Kepulauan Seribu Kotamadya Jakarta Utara;
+Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+2. Undang-Undang Nomor 26 Tahun 2007 tentang Penataan Ruang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 4725) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856);
+3. Undang-Undang Nomor 27 Tahun 2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 84, Tambahan Lembaran Negara Republik Indonesia Nomor 4739) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856);
+4. Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan Provinsi Daerah Khusus Ibukota Jakarta sebagai Ibukota Negara Kesatuan Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4744);
+5. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856);
+6. Peraturan Pemerintah Nomor 21 Tahun 2021 tentang Penyelengaraan Penataan Ruang (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 6633);
+Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA dan GUBERNUR DAERAH KHUSUS IBUKOTA JAKARTA
+MEMUTUSKAN:
+Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 11 TAHUN 1992 TENTANG PENATAAN DAN PENGELOLAAN KEPULAUAN SERIBU KOTAMADYA JAKARTA UTARA.

@@ -1,0 +1,31 @@
+# Penutup
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Provinsi Daerah Khusus Ibukota Jakarta.
+Ditetapkan di Jakarta
+pada tanggal
+7
+Mei
+2024
+Pj. GUBERNUR DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+HERU BUDI HARTONO
+Diundangkan di Jakarta
+pada tanggal
+14
+Mei
+2024
+SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+JOKO AGUS SETYONO
+LEMBARAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA
+TAHUN
+2024
+NOMOR
+301
+Salinan sesuai dengan aslinya
+KEPALA BIRO HUKUM SEKRETARIAT DAERAH
+PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA,
+SIGIT PRATAMA YUDHA
+NIP 197612062002121009
+NOREG PERATURAN DAERAH PROVINSI DKI JAKARTA : (3-95/2024)
