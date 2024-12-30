@@ -1,0 +1,6 @@
+# Pasal 3
+(1) Dengan Peraturan Daerah ini dibentuk Perseroan Daerah.
+(2) Sebelum dibentuk sebagai Perseroan Daerah dalam Peraturan Daerah ini, Perseroan Daerah telah didirikan berdasarkan Akta Notaris Nomor 127 tanggal 26 Juni 1973 tentang Perseroan Terbatas P.T. Jakarta Industrial Estate Pulogadung yang telah mendapat persetujuan dari Menteri Kehakiman Republik Indonesia Nomor Y.A.5/299/9 tanggal 14 Agustus 1973, beserta Anggaran Dasar yang telah diubah terakhir dengan Akta Notaris Nomor 29 tanggal 26 September 2023 tentang Pernyataan Keputusan Di Luar Rapat Umum Pemegang Saham PT Jakarta Industrial Estate Pulogadung yang telah dicatatkan di dalam Sistem Administrasi Badan Hukum Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia sebagaimana ditetapkan dalam Keputusan Menteri Hukum dan Hak Asasi Manusia Nomor AHU-0061750.AH.01.02.TAHUN 2023 tanggal 11 Oktober 2023 tentang Persetujuan Perubahan Anggaran Dasar Perseroan Terbatas PT Jakarta Industrial Estate Pulogadung.
+(3) Pendirian Perseroan Daerah yang ditetapkan berdasarkan Peraturan Daerah ini ditindaklanjuti dengan penyesuaian Anggaran Dasar sesuai dengan ketentuan peraturan perundang-undangan.
+BAB III
+NAMA, TEMPAT KEDUDUKAN, DAN JANGKA WAKTU BERDIRI
