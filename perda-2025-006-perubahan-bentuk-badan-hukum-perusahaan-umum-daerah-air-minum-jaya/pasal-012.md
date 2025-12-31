@@ -1,0 +1,2 @@
+# Pasal 12
+Pada saat Peraturan Daerah ini mulai berlaku, Peraturan Daerah Nomor 4 Tahun 2021 tentang Perubahan Bentuk Hukum Perusahaan Daerah Air Minum Daerah Khusus Ibukota Jakarta (PAM JAYA) menjadi Perusahaan Umum Daerah Air Minum Jaya (Lembaran Daerah Provinsi Daerah Khusus Ibukota Jakarta Tahun 2021 Nomor 204, Tambahan Lembaran Daerah Provinsi Daerah Khusus Ibukota Jakarta Nomor 1033), dicabut dan dinyatakan tidak berlaku.

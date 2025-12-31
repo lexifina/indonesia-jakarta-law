@@ -1,0 +1,31 @@
+# Penutup
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Provinsi Daerah Khusus Ibukota Jakarta.
+Ditetapkan di Jakarta
+pada tanggal
+31
+Desember
+2025
+GUBERNUR DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+PRAMONO ANUNG
+Diundangkan di Jakarta
+pada tanggal
+31
+Desember
+2025
+SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+UUS KUSWANTO
+LEMBARAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA
+TAHUN
+2025
+NOMOR
+204
+Salinan sesuai dengan aslinya
+KEPALA BIRO HUKUM SEKRETARIAT DAERAH
+PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA,
+SIGIT PRATAMA YUDHA
+NIP 197612062002121009
+NOREG PERATURAN DAERAH PROVINSI DKI JAKARTA : (6-281/2025)
