@@ -1,0 +1,8 @@
+# Pasal 18
+(1) Setiap pengelola Kawasan Tanpa Rokok yang tidak melakukan kewajiban sebagaimana dimaksud dalam Pasal 16 baik secara kumulatif maupun alternatif, dikenakan sanksi administratif dengan denda sebesar Rp10.000.000,00 (sepuluh juta rupiah).
+(2) Setiap Orang yang Merokok di Kawasan Tanpa Rokok sebagaimana dimaksud dalam Pasal 17 ayat (1) dikenakan sanksi administratif berupa denda paling banyak Rp250.000,00 (dua ratus lima puluh ribu rupiah).
+(3) Setiap Orang yang memproduksi Rokok sebagaimana dimaksud dalam Pasal 17 ayat (2) huruf a dikenakan sanksi administratif dengan denda sebesar Rp100.000.000,00 (seratus juta rupiah).
+(4) Setiap Orang yang mengiklankan, melakukan Promosi Rokok, dan/atau memberikan Sponsor Rokok sebagaimana dimaksud dalam Pasal 17 ayat (2) huruf a dikenakan sanksi administratif dengan denda sebesar Rp100.000.000,00 (seratus juta rupiah) atau pencabutan izin usaha.
+(5) Setiap Orang yang menjual dan/atau membeli Rokok di Kawasan Tanpa Rokok sebagaimana dimaksud dalam Pasal 17 ayat (2) huruf b dikenakan sanksi administratif dengan denda sebesar Rp10.000.000,00 (sepuluh juta rupiah).
+(6) Setiap Orang yang menjual Rokok kepada orang dengan usia kurang dari 21 (dua puluh satu) tahun dan/atau perempuan hamil dan/atau melalui mesin layan diri sebagaimana dimaksud dalam Pasal 17 ayat (5) dikenakan sanksi administratif dengan denda sebesar Rp10.000.000,00 (sepuluh juta rupiah).
+(7) Setiap Orang yang mengiklankan Produk Tembakau dan rokok elektronik di media sosial berbasis digital sebagaimana dimaksud dalam Pasal 17 ayat (6) dikenakan sanksi administratif dengan denda sebesar Rp100.000.000,00 (seratus juta rupiah).
