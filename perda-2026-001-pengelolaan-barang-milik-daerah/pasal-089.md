@@ -1,0 +1,6 @@
+# Pasal 89
+(1) Penyertaan Modal Pemerintah Daerah atas Barang Milik Daerah dilakukan dalam rangka pendirian, memperbaiki struktur permodalan dan/atau meningkatkan kapasitas usaha badan usaha milik negara, badan usaha milik daerah, atau badan hukum lainnya yang dimiliki negara sesuai dengan ketentuan peraturan perundang-undangan.
+(2) Penyertaan Modal Pemerintah Daerah sebagaimana dimaksud pada ayat (1) dilakukan dengan pertimbangan sebagai berikut:
+a. Barang Milik Daerah yang dari awal pengadaannya sesuai dokumen penganggaran diperuntukkan bagi badan usaha milik negara, badan usaha milik daerah atau badan hukum lainnya yang dimiliki negara dalam rangka penugasan pemerintah sesuai dengan ketentuan peraturan perundang-undangan; atau b. Barang Milik Daerah lebih optimal apabila dikelola oleh badan usaha milik negara, badan usaha milik daerah atau badan hukum lainnya yang dimiliki negara, baik yang sudah ada maupun yang akan dibentuk.
+(3) Penyertaan Modal Pemerintah Daerah sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Daerah.
+(4) Barang Milik Daerah sebagaimana dimaksud pada ayat (2) yang telah disertakan dalam Penyertaan Modal Pemerintah Daerah kepada badan usaha milik negara/daerah atau badan hukum lainnya yang dimiliki negara menjadi kekayaan yang dipisahkan sesuai dengan ketentuan peraturan perundang-undangan.

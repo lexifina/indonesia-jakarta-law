@@ -1,0 +1,31 @@
+# Penutup
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Provinsi Daerah Khusus Ibukota Jakarta.
+Ditetapkan di Jakarta
+pada tanggal
+20
+Februari
+2026
+GUBERNUR DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+PRAMONO ANUNG
+Diundangkan di Jakarta
+pada tanggal
+23
+Februari
+2026
+SEKRETARIS DAERAH PROVINSI DAERAH KHUSUS
+IBUKOTA JAKARTA,
+ttd
+UUS KUSWANTO
+LEMBARAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA
+TAHUN
+2026
+NOMOR
+201
+Salinan sesuai dengan aslinya
+KEPALA BIRO HUKUM SEKRETARIAT DAERAH
+PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA,
+SIGIT PRATAMA YUDHA
+NIP 197612062002121009
+NOREG PERATURAN DAERAH PROVINSI DKI JAKARTA : (1-29/2026)

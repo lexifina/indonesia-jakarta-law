@@ -1,0 +1,3 @@
+# Pasal 85
+(1) Hibah Barang Milik Daerah dilakukan dengan pertimbangan untuk kepentingan sosial, budaya, keagamaan, kemanusiaan, pendidikan yang bersifat nonkomersial, dan penyelenggaraan Pemerintahan Pusat/Daerah/desa.
+(2) Penyelenggaraan pemerintahan Pusat/Daerah/desa sebagaimana dimaksud pada ayat (1) termasuk hubungan antar daerah, hubungan antara Pemerintah Pusat dengan Pemerintah Daerah/desa, hubungan antara Pemerintah Daerah dengan desa, hubungan antara Pemerintah Pusat/Pemerintah Daerah dengan masyarakat internasional, dan pelaksanaan kegiatan yang menunjang penyelenggaraan tugas dan fungsi Pemerintah Pusat atau Pemerintah Daerah.
