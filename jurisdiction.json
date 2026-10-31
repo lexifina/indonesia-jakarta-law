@@ -1,0 +1,8 @@
+{
+  "path": "id-jk",
+  "code": "ID-JK",
+  "name": "Jakarta (Indonesia)",
+  "level": "country",
+  "repo": "https://github.com/lexifina/indonesia-jakarta-law",
+  "build": "built: Peraturan Daerah (Perda) of Provinsi Daerah Khusus Ibukota Jakarta as enacted, Indonesian text, from JDIH Provinsi DKI Jakarta (Biro Hukum Sekretariat Daerah Provinsi DKI Jakarta)"
+}
