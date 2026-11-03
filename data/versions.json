@@ -224,6 +224,230 @@
      "sha256": "98954ae3b94966364728bcb427695420d9b46cc342ecc6e1eba8ab91b10799c9"
     }
    ]
+  },
+  {
+   "slug": "perda-2013-014",
+   "short": "Perda Jakarta 14/2013",
+   "title": "Peraturan Daerah Nomor 14 Tahun 2013",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/13034",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 4,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2013PERDA0031014.pdf",
+     "sha256": "22d8cc4117fe90c52fb11263f80b68efd3b808548b3c3c12271763f627d8809e"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-005-transportasi",
+   "short": "Perda Jakarta 5/2014",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 5 TAHUN 2014 TENTANG TRANSPORTASI",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/8944",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 265,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2014PERDA00315.pdf",
+     "sha256": "f917899b11e396b507fa89ce918d2f49d968512155f98c489ce83faa3d0e29fb"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2015-009",
+   "short": "Perda Jakarta 9/2015",
+   "title": "Peraturan Daerah Nomor 9 Tahun 2015",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/11296",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 5,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2015UU00319.pdf",
+     "sha256": "f6bc3af47484d964080af528474fc4e339b822e9771b83145d7c6366b39ff79b"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2015-006-kepariwisataan",
+   "short": "Perda Jakarta 6/2015",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 6 TAHUN 2015 TENTANG KEPARIWISATAAN",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/10826",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 109,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2015PERDA00316.pdf",
+     "sha256": "99e23c73f21d46d49903d7d93322069413afbbac9128e6869b921191b702faaf"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-007-pengelolaan-keuangan-daerah",
+   "short": "Perda Jakarta 7/2022",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 7 TAHUN 2022 TENTANG PENGELOLAAN KEUANGAN DAERAH",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/13377",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 145,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2022PERDA0031007.pdf",
+     "sha256": "6735fc9f7a84e0ce28af8c1cf79a7bfa64f5b8485f4f029aacc1b1fa235de7b8"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-001-perubahan-bentuk-hukum-perseroan-terbatas-penjaminan-kredit-daerah",
+   "short": "Perda Jakarta 1/2023",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 1 TAHUN 2023 TENTANG PERUBAHAN BENTUK HUKUM PERSEROAN TERBATAS PENJAMINAN KREDIT DAERAH JAKARTA MENJADI PERSEROAN TERBATAS PENJAMINAN KREDIT DAERAH JAKARTA (PERSEROAN DAERAH)",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/13456",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 20,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2023PERDA0031001.pdf",
+     "sha256": "c3d1fc2b9adefa76fd90650a2cbee0f5c9f77b588bac1610a994360dbabc8048"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-002-pencabutan-peraturan-daerah-nomor-11-tahun-1992-tentang-penataan-dan",
+   "short": "Perda Jakarta 2/2024",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 2 TAHUN 2024 TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 11 TAHUN 1992 TENTANG PENATAAN DAN PENGELOLAAN KEPULAUAN SERIBU KOTAMADYA JAKARTA UTARA",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/13974",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 4,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2024PERDA00312.pdf",
+     "sha256": "2971e9a8f7f1b2a621c62560b8682bcd1fe1676c9e396ea7678e559a23a878b7"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-003-pencabutan-peraturan-daerah-nomor-2-tahun-2011-tentang-pendaftaran",
+   "short": "Perda Jakarta 3/2024",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 3 TAHUN 2024 TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 2 TAHUN 2011 TENTANG PENDAFTARAN PENDUDUK DAN PENCATATAN SIPIL",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/13977",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 4,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2024PERDA00313.pdf",
+     "sha256": "23dba4d5165878ebd2884865b49e1be910b9ae7495660c66953e4d3b29352083"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-004-perubahan-atas-peraturan-daerah-nomor-5-tahun-2010-tentang-lembaga",
+   "short": "Perda Jakarta 4/2024",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 4 TAHUN 2024 TENTANG PERUBAHAN ATAS PERATURAN DAERAH NOMOR 5 TAHUN 2010 TENTANG LEMBAGA MUSYAWARAH KELURAHAN",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/14007",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 5,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2024PERDA00314.pdf",
+     "sha256": "86e0c203666547798ba8320fc61d01aa58619000daf9266cd178b3ab3c152425"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-012-pendirian-perseroan-terbatas-jakarta-industrial-estate-pulogadung",
+   "short": "Perda Jakarta 12/2024",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 12 TAHUN 2024 TENTANG PENDIRIAN PERSEROAN TERBATAS JAKARTA INDUSTRIAL ESTATE PULOGADUNG (PERSEROAN DAERAH)",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/14209",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 13,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2024PERDA003112.pdf",
+     "sha256": "428a0c7ecfe7d8707ad54b2dab4e491b6a75abb3ce4e233b65ab9ecbf9087581"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-013-penyertaan-modal-daerah-pada-perseroan-terbatas-jakarta-industrial",
+   "short": "Perda Jakarta 13/2024",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 13 TAHUN 2024 TENTANG PENYERTAAN MODAL DAERAH PADA PERSEROAN TERBATAS JAKARTA INDUSTRIAL ESTATE PULOGADUNG (PERSEROAN DAERAH)",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/14210",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 7,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2024PERDA003113.pdf",
+     "sha256": "3c687aecfc8446d1b9904111c8339edbc1a37fa2af197d5933ee1b1008f755b2"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2025-005-penyelenggaraan-pendidikan",
+   "short": "Perda Jakarta 5/2025",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 5 TAHUN 2025 TENTANG PENYELENGGARAAN PENDIDIKAN",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/14794",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 53,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2025PERDA00315.pdf",
+     "sha256": "6e301db9ead9c6f5fec77955cda391eddfef68f5c767cebed5fafb6e1f1a8aaa"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2025-006-perubahan-bentuk-badan-hukum-perusahaan-umum-daerah-air-minum-jaya",
+   "short": "Perda Jakarta 6/2025",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 6 TAHUN 2025 TENTANG PERUBAHAN BENTUK BADAN HUKUM PERUSAHAAN UMUM DAERAH AIR MINUM JAYA MENJADI PERSEROAN TERBATAS AIR MINUM JAYA (PERSEROAN DAERAH)",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/14807",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 17,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2025PERDA00316.pdf",
+     "sha256": "32b1be0387b4e8f50b9bfcd979cd79dce27d270f360e9025124f52a4b66a5727"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2025-007-kawasan-tanpa-rokok",
+   "short": "Perda Jakarta 7/2025",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 7 TAHUN 2025 TENTANG KAWASAN TANPA ROKOK",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/14808",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 34,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2025PERDA00317.pdf",
+     "sha256": "104622380cbb85716e8b7528de7b096319cc6fc92af3d057153b22d841e75cf3"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-001-pengelolaan-barang-milik-daerah",
+   "short": "Perda Jakarta 1/2026",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 1 TAHUN 2026 TENTANG PENGELOLAAN BARANG MILIK DAERAH",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/14847",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 119,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2026PERDA00311.pdf",
+     "sha256": "8949f82118682b5388ac5d1b84e4d4fc6bf6afb442213ef6981910dd45a9bfa2"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-003-fasilitasi-pencegahan-dan-pemberantasan-penyalahgunaan-dan-peredaran",
+   "short": "Perda Jakarta 3/2026",
+   "title": "PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 3 TAHUN 2026 TENTANG FASILITASI PENCEGAHAN DAN PEMBERANTASAN PENYALAHGUNAAN DAN PEREDARAN GELAP NARKOTIKA DAN PREKURSOR NARKOTIKA",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/15020",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 32,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2026PERDA00313.pdf",
+     "sha256": "b285ae150ba3d89f72de9cb17f637a7adb6bc95f4fed3ab8c8079fd74887ae9a"
+    }
+   ]
   }
  ]
 }

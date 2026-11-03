@@ -1,12 +1,13 @@
 # How this repository was made (Jakarta (Indonesia))
 
-This file is written by the build on 2026-10-31, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | JDIH Provinsi DKI Jakarta (Biro Hukum Sekretariat Daerah Provinsi DKI Jakarta): Peraturan Daerah, each the published copy (salinan) as a PDF with a text layer | <https://jdih.jakarta.go.id/pencarianCepat?tipe_dokumen=PU&jenis_dokumen_pu=Peraturan+Daerah> | 2026-10-31 | Peraturan Daerah of Provinsi Daerah Khusus Ibukota Jakarta as published (salinan) on https://jdih.jakarta.go.id. Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Pasal 42: "Tidak ada Hak Cipta atas hasil karya berupa: a. hasil rapat terbuka lembaga negara; b. peraturan perundang-undangan; c. pidato kenegaraan atau pidato pejabat Pemerintah; d. putusan pengadilan atau penetapan hakim; dan e. kitab suci atau simbol keagamaan." (There is no copyright in ... b. laws and regulations.) A Peraturan Daerah Provinsi is one of the peraturan perundang-undangan listed in Pasal 7(1) of Undang-Undang Nomor 12 Tahun 2011. |
+| JDIH Provinsi DKI Jakarta (Biro Hukum Sekretariat Daerah Provinsi DKI Jakarta): Peraturan Daerah, each the published copy (salinan) as a PDF with a text layer | <https://jdih.jakarta.go.id/pencarianCepat?tipe_dokumen=PU&jenis_dokumen_pu=Peraturan+Daerah> | 2026-11-03 | Peraturan Daerah of Provinsi Daerah Khusus Ibukota Jakarta as published (salinan) on https://jdih.jakarta.go.id. Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Pasal 42: "Tidak ada Hak Cipta atas hasil karya berupa: a. hasil rapat terbuka lembaga negara; b. peraturan perundang-undangan; c. pidato kenegaraan atau pidato pejabat Pemerintah; d. putusan pengadilan atau penetapan hakim; dan e. kitab suci atau simbol keagamaan." (There is no copyright in ... b. laws and regulations.) A Peraturan Daerah Provinsi is one of the peraturan perundang-undangan listed in Pasal 7(1) of Undang-Undang Nomor 12 Tahun 2011. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -30,20 +31,36 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `perda-2007-004-pengendalian-pemeliharaan-dan-peredaran-unggas` | Peraturan Daerah Nomor 4 Tahun 2007 tentang Pengendalian Pemeliharaan dan Peredaran Unggas | 1 | 2007-04-24 to 2007-04-24 |
 | `perda-2007-006-pengendalian-penyakit-demam-berdarah-dengue` | Peraturan Daerah Nomor 6 Tahun 2007 tentang Pengendalian Penyakit Demam Berdarah Dengue | 1 | 2007-07-11 to 2007-07-11 |
 | `perda-2008-010-organisasi-perangkat-daerah` | Peraturan Daerah Nomor 10 Tahun 2008 tentang Organisasi Perangkat Daerah | 1 | 2008-12-24 to 2008-12-24 |
+| `perda-2013-014` | Peraturan Daerah Nomor 14 Tahun 2013 | 1 | 2013-01-22 to 2013-01-22 |
+| `perda-2014-005-transportasi` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 5 TAHUN 2014 TENTANG TRANSPORTASI | 1 | 2014-04-29 to 2014-04-29 |
+| `perda-2015-009` | Peraturan Daerah Nomor 9 Tahun 2015 | 1 | 2015-03-18 to 2015-03-18 |
+| `perda-2015-006-kepariwisataan` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 6 TAHUN 2015 TENTANG KEPARIWISATAAN | 1 | 2015-11-25 to 2015-11-25 |
+| `perda-2022-007-pengelolaan-keuangan-daerah` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 7 TAHUN 2022 TENTANG PENGELOLAAN KEUANGAN DAERAH | 1 | 2022-12-30 to 2022-12-30 |
+| `perda-2023-001-perubahan-bentuk-hukum-perseroan-terbatas-penjaminan-kredit-daerah` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 1 TAHUN 2023 TENTANG PERUBAHAN BENTUK HUKUM PERSEROAN TERBATAS PENJAMINAN KREDIT DAERAH JAKARTA MENJADI PERSEROAN TERBATAS PENJAMINAN KREDIT DAERAH JAKARTA (PERSEROAN DAERAH) | 1 | 2023-03-17 to 2023-03-17 |
+| `perda-2024-002-pencabutan-peraturan-daerah-nomor-11-tahun-1992-tentang-penataan-dan` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 2 TAHUN 2024 TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 11 TAHUN 1992 TENTANG PENATAAN DAN PENGELOLAAN KEPULAUAN SERIBU KOTAMADYA JAKARTA UTARA | 1 | 2024-05-14 to 2024-05-14 |
+| `perda-2024-003-pencabutan-peraturan-daerah-nomor-2-tahun-2011-tentang-pendaftaran` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 3 TAHUN 2024 TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 2 TAHUN 2011 TENTANG PENDAFTARAN PENDUDUK DAN PENCATATAN SIPIL | 1 | 2024-05-22 to 2024-05-22 |
+| `perda-2024-004-perubahan-atas-peraturan-daerah-nomor-5-tahun-2010-tentang-lembaga` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 4 TAHUN 2024 TENTANG PERUBAHAN ATAS PERATURAN DAERAH NOMOR 5 TAHUN 2010 TENTANG LEMBAGA MUSYAWARAH KELURAHAN | 1 | 2024-07-03 to 2024-07-03 |
+| `perda-2024-012-pendirian-perseroan-terbatas-jakarta-industrial-estate-pulogadung` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 12 TAHUN 2024 TENTANG PENDIRIAN PERSEROAN TERBATAS JAKARTA INDUSTRIAL ESTATE PULOGADUNG (PERSEROAN DAERAH) | 1 | 2024-12-30 to 2024-12-30 |
+| `perda-2024-013-penyertaan-modal-daerah-pada-perseroan-terbatas-jakarta-industrial` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 13 TAHUN 2024 TENTANG PENYERTAAN MODAL DAERAH PADA PERSEROAN TERBATAS JAKARTA INDUSTRIAL ESTATE PULOGADUNG (PERSEROAN DAERAH) | 1 | 2024-12-30 to 2024-12-30 |
+| `perda-2025-005-penyelenggaraan-pendidikan` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 5 TAHUN 2025 TENTANG PENYELENGGARAAN PENDIDIKAN | 1 | 2025-12-31 to 2025-12-31 |
+| `perda-2025-006-perubahan-bentuk-badan-hukum-perusahaan-umum-daerah-air-minum-jaya` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 6 TAHUN 2025 TENTANG PERUBAHAN BENTUK BADAN HUKUM PERUSAHAAN UMUM DAERAH AIR MINUM JAYA MENJADI PERSEROAN TERBATAS AIR MINUM JAYA (PERSEROAN DAERAH) | 1 | 2025-12-31 to 2025-12-31 |
+| `perda-2025-007-kawasan-tanpa-rokok` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 7 TAHUN 2025 TENTANG KAWASAN TANPA ROKOK | 1 | 2025-12-31 to 2025-12-31 |
+| `perda-2026-001-pengelolaan-barang-milik-daerah` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 1 TAHUN 2026 TENTANG PENGELOLAAN BARANG MILIK DAERAH | 1 | 2026-02-23 to 2026-02-23 |
+| `perda-2026-003-fasilitasi-pencegahan-dan-pemberantasan-penyalahgunaan-dan-peredaran` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 3 TAHUN 2026 TENTANG FASILITASI PENCEGAHAN DAN PEMBERANTASAN PENYALAHGUNAAN DAN PEREDARAN GELAP NARKOTIKA DAN PREKURSOR NARKOTIKA | 1 | 2026-07-10 to 2026-07-10 |
 
-The build made 16 commits:
+The build made 32 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 16 | first version of an act |
+| 32 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-31.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 16 tags.
+- 32 tags.
 
 ## Dates
 
@@ -55,13 +72,13 @@ When a law gives no date of its own, the default rule applies: A Peraturan Daera
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6fd8682d537f1f2cbfd0aea75eb1273c4019b3c7de69c8e76b4f08a122e38883` (832615 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `8bf5e0283a45b5fa09fff79af7e5f6241e5ee61b3754373fa7547ad299ebcfbb` (1771422 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-16 versions of 16 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -73,6 +90,7 @@ No second build of this corpus has been compared yet.
 - Units: a-pembukaan (heading, preamble, enacting words), one file per Pasal (chapter, part and paragraph headings printed between two Pasal stay at the end of the earlier one, in printed order), z1-penutup (promulgation order, signatures, Lembaran Daerah number, certification), z2-penjelasan (the elucidation) and z3-lampiran (the annex) where printed. One paragraph per line.
 - Left out of the text: page numbers and the "SALINAN" stamp line. Text-layer PDFs only (no OCR): scans are left out.
 - Every Perda is checked by a second PDF reader (pdftotext): each paragraph of the record, letters and digits only, must be one unbroken stretch of the PDF, and together they must cover the whole PDF with nothing left over except page numbers and the stamp. A Perda that fails is left out.
+- 20-perda-02: the next 16 Peraturan Daerah in order of in-force day.
 
 ## What AI did and did not do
 

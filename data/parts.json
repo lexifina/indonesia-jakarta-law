@@ -1,0 +1,47 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2000-007-perubahan-pertama-atas-peraturan-daerah-daerah-khusus-ibukota-jakarta",
+    "perda-2001-001-perubahan-atas-ketentuan-pidana-dalam-peraturan-daerah-yang",
+    "perda-2002-006-pajak-parkir",
+    "perda-2002-007-pajak-bahan-bakar-kendaraan-bermotor",
+    "perda-2002-010-rencana-strategis-daerah-propinsi-daerah-khusus-ibukota-jakarta-tahun",
+    "perda-2003-012-lalu-lintas-dan-angkutan-jalan-kereta-api-sungai-dan-danau-serta",
+    "perda-2004-010-kepariwisataan",
+    "perda-2006-002-pencabutan-peraturan-daerah-daerah-khusus-ibukota-jakarta-nomor-11",
+    "perda-2006-005-pencabutan-atas-beberapa-peraturan-daerah",
+    "perda-2006-006-serah-simpan-karya-cetak-dan-karya-rekam",
+    "perda-2006-008-sistem-pendidikan",
+    "perda-2007-001-pengelolaan-kearsipan",
+    "perda-2007-003-pemakaman",
+    "perda-2007-004-pengendalian-pemeliharaan-dan-peredaran-unggas",
+    "perda-2007-006-pengendalian-penyakit-demam-berdarah-dengue",
+    "perda-2008-010-organisasi-perangkat-daerah"
+   ],
+   "sha256": "1a027945aced59ebcdf10511df6e5076303704b1cb4c264094cedacd96369812"
+  },
+  "20-perda-02.json": {
+   "acts": [
+    "perda-2013-014",
+    "perda-2014-005-transportasi",
+    "perda-2015-006-kepariwisataan",
+    "perda-2015-009",
+    "perda-2022-007-pengelolaan-keuangan-daerah",
+    "perda-2023-001-perubahan-bentuk-hukum-perseroan-terbatas-penjaminan-kredit-daerah",
+    "perda-2024-002-pencabutan-peraturan-daerah-nomor-11-tahun-1992-tentang-penataan-dan",
+    "perda-2024-003-pencabutan-peraturan-daerah-nomor-2-tahun-2011-tentang-pendaftaran",
+    "perda-2024-004-perubahan-atas-peraturan-daerah-nomor-5-tahun-2010-tentang-lembaga",
+    "perda-2024-012-pendirian-perseroan-terbatas-jakarta-industrial-estate-pulogadung",
+    "perda-2024-013-penyertaan-modal-daerah-pada-perseroan-terbatas-jakarta-industrial",
+    "perda-2025-005-penyelenggaraan-pendidikan",
+    "perda-2025-006-perubahan-bentuk-badan-hukum-perusahaan-umum-daerah-air-minum-jaya",
+    "perda-2025-007-kawasan-tanpa-rokok",
+    "perda-2026-001-pengelolaan-barang-milik-daerah",
+    "perda-2026-003-fasilitasi-pencegahan-dan-pemberantasan-penyalahgunaan-dan-peredaran"
+   ],
+   "sha256": "9980835c172f6dfb8df12071a4c513b11d802178b1e3803c410188d83b36b8cd"
+  }
+ },
+ "schema": 1
+}

@@ -24,7 +24,7 @@ The record is built in parts, oldest Perda first, and holds only the Perda JDIH 
 
 ## Dates
 
-Each Perda is dated by the day it takes effect under its own last Pasal, at noon in Jakarta: the day it was promulgated (diundangkan, printed in its closing) when it says "mulai berlaku pada tanggal diundangkan", or the calendar day it names. Perda whose commencement is a period after promulgation or another event are left out for now.
+Each Perda is dated by the day it takes effect under its own last Pasal, at noon local time (WIB, UTC+7): the day it was promulgated (diundangkan, printed in its closing) when it says "mulai berlaku pada tanggal diundangkan", or the calendar day it names. Perda whose commencement is a period after promulgation or another event are left out for now.
 
 ## How it is built
 
