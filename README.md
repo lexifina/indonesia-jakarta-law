@@ -1,5 +1,7 @@
 # Jakarta (Indonesia): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Jakarta, Indonesia, which global-law reads at `indonesia/jakarta/acts/`.
+
 The Peraturan Daerah (Perda) of Provinsi Daerah Khusus Ibukota Jakarta, Indonesia, as a git history: one folder per Perda, one file per Pasal (article), one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the Indonesian text of each Perda as enacted, from the copy (salinan) published by JDIH Provinsi DKI Jakarta (Biro Hukum Sekretariat Daerah Provinsi DKI Jakarta).
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
