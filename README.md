@@ -15,8 +15,9 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `z1-penutup.md` | promulgation order, signatures, Lembaran Daerah number, certification of the copy |
 | `z2-penjelasan.md` | the elucidation (Penjelasan), where printed |
 | `z3-lampiran.md` | the annex (Lampiran), where printed |
+| `naskah.md` | complete text of Perda 10/2024 and 11/2024, including the preamble, articles, closing and elucidation |
 
-The record is built in parts, oldest Perda first, and holds only the Perda JDIH publishes as a PDF with a text layer that passes the check below; scans and documents the reader cannot split into Pasal are left out for now. Budgets (APBD and their accountability reports), development plans (RPJMD, RPJPD) and spatial plans (RTRW, zoning), which are mostly tables and maps, are not included. It is not (yet) every Perda of Provinsi Daerah Khusus Ibukota Jakarta.
+The record is built in parts, oldest Perda first, and holds only the Perda JDIH publishes as a PDF with a text layer that passes the text checks. Perda 10/2024 and 11/2024 are each complete-text acts in one file; their scanned closing pages use the source-supplied text layer, treated as OCR and checked against each whole page without changing words. Other scans and documents the reader cannot read completely are left out for now. Budgets (APBD and their accountability reports), development plans (RPJMD, RPJPD) and spatial plans (RTRW, zoning), which are mostly tables and maps, are not included. It is not (yet) every Perda of Provinsi Daerah Khusus Ibukota Jakarta.
 
 ## Source
 
@@ -30,7 +31,7 @@ Each Perda is dated by the day it takes effect under its own last Pasal, at noon
 
 Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
 
-The text layer of each PDF (no OCR) becomes the record, row by row in reading order, rows joined into paragraphs. Left out: page numbers and the "SALINAN" stamp line. Nothing is reworded.
+The source text layer of each PDF becomes the record, row by row in reading order, rows joined into paragraphs. The scanned closing pages of Perda 10/2024 and 11/2024 use source-supplied text layers treated as OCR and checked against the page images. Left out: page numbers and the "SALINAN" stamp line. Nothing is reworded.
 
 ## How it is checked
 

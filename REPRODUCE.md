@@ -1,6 +1,6 @@
 # How this repository was made (Jakarta (Indonesia))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-06, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | --- | --- | --- | --- |
 | JDIH Provinsi DKI Jakarta (Biro Hukum Sekretariat Daerah Provinsi DKI Jakarta): Peraturan Daerah, each the published copy (salinan) as a PDF with a text layer | <https://jdih.jakarta.go.id/pencarianCepat?tipe_dokumen=PU&jenis_dokumen_pu=Peraturan+Daerah> | 2026-10-31 | Peraturan Daerah of Provinsi Daerah Khusus Ibukota Jakarta as published (salinan) on https://jdih.jakarta.go.id. Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Pasal 42: "Tidak ada Hak Cipta atas hasil karya berupa: a. hasil rapat terbuka lembaga negara; b. peraturan perundang-undangan; c. pidato kenegaraan atau pidato pejabat Pemerintah; d. putusan pengadilan atau penetapan hakim; dan e. kitab suci atau simbol keagamaan." (There is no copyright in ... b. laws and regulations.) A Peraturan Daerah Provinsi is one of the peraturan perundang-undangan listed in Pasal 7(1) of Undang-Undang Nomor 12 Tahun 2011. |
 | JDIH Provinsi DKI Jakarta (Biro Hukum Sekretariat Daerah Provinsi DKI Jakarta): Peraturan Daerah, each the published copy (salinan) as a PDF with a text layer | <https://jdih.jakarta.go.id/pencarianCepat?tipe_dokumen=PU&jenis_dokumen_pu=Peraturan+Daerah> | 2026-11-03 | Peraturan Daerah of Provinsi Daerah Khusus Ibukota Jakarta as published (salinan) on https://jdih.jakarta.go.id. Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Pasal 42: "Tidak ada Hak Cipta atas hasil karya berupa: a. hasil rapat terbuka lembaga negara; b. peraturan perundang-undangan; c. pidato kenegaraan atau pidato pejabat Pemerintah; d. putusan pengadilan atau penetapan hakim; dan e. kitab suci atau simbol keagamaan." (There is no copyright in ... b. laws and regulations.) A Peraturan Daerah Provinsi is one of the peraturan perundang-undangan listed in Pasal 7(1) of Undang-Undang Nomor 12 Tahun 2011. |
+| JDIH Provinsi DKI Jakarta: Perda 10/2024 and Perda 11/2024 | <https://jdih.jakarta.go.id> | 2026-11-06 | Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Pasal 42: no copyright in laws and regulations. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -47,20 +48,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `perda-2025-007-kawasan-tanpa-rokok` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 7 TAHUN 2025 TENTANG KAWASAN TANPA ROKOK | 1 | 2025-12-31 to 2025-12-31 |
 | `perda-2026-001-pengelolaan-barang-milik-daerah` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 1 TAHUN 2026 TENTANG PENGELOLAAN BARANG MILIK DAERAH | 1 | 2026-02-23 to 2026-02-23 |
 | `perda-2026-003-fasilitasi-pencegahan-dan-pemberantasan-penyalahgunaan-dan-peredaran` | PERATURAN DAERAH PROVINSI DAERAH KHUSUS IBUKOTA JAKARTA NOMOR 3 TAHUN 2026 TENTANG FASILITASI PENCEGAHAN DAN PEMBERANTASAN PENYALAHGUNAAN DAN PEREDARAN GELAP NARKOTIKA DAN PREKURSOR NARKOTIKA | 1 | 2026-07-10 to 2026-07-10 |
+| `perda-2024-010-pengelolaan-air-limbah-domestik` | Pengelolaan Air Limbah Domestik | 1 | 2024-12-30 to 2024-12-30 |
+| `perda-2024-011-perubahan-mrt-jakarta` | Perubahan atas Peraturan Daerah Nomor 9 Tahun 2018 tentang Perseroan Terbatas MRT Jakarta (Perseroan Daerah) | 1 | 2024-12-30 to 2024-12-30 |
 
-The build made 32 commits:
+The build made 34 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 32 | first version of an act |
+| 34 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1 laws in the record.
-- 32 tags.
+- 34 tags.
 
 ## Dates
 
@@ -72,7 +75,7 @@ When a law gives no date of its own, the default rule applies: A Peraturan Daera
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8bf5e0283a45b5fa09fff79af7e5f6241e5ee61b3754373fa7547ad299ebcfbb` (1771422 bytes).
+- Corpus: sha256 `b59cf06381b705924a38484f2c02773da7e6fda2973a001217d4e0d09b673a49` (1853465 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -80,7 +83,7 @@ When a law gives no date of its own, the default rule applies: A Peraturan Daera
 
 Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 34 history commits and 34 tags (history tip `2baea0864208fb510aaac9e305926d7ad6d60b93`).
 
 ## Decisions made by hand
 
@@ -91,6 +94,8 @@ No second build of this corpus has been compared yet.
 - Left out of the text: page numbers and the "SALINAN" stamp line. Text-layer PDFs only (no OCR): scans are left out.
 - Every Perda is checked by a second PDF reader (pdftotext): each paragraph of the record, letters and digits only, must be one unbroken stretch of the PDF, and together they must cover the whole PDF with nothing left over except page numbers and the stamp. A Perda that fails is left out.
 - 20-perda-02: the next 16 Peraturan Daerah in order of in-force day.
+- Perda 10/2024: In-force basis: Pasal 69 states commencement on promulgation; the official closing page prints 30 Desember 2024, also stated in the JDIH detail record. PDF p. 24 is scanned with a source-supplied text layer, treated as OCR: the entire page was checked against the image without changing any word. One complete-text file includes the preamble, operative articles, closing and elucidation. The source lists this instrument as Berlaku and names no later amendment to it; this is the published instrument, with no consolidation of the instruments it changes.
+- Perda 11/2024: In-force basis: Pasal II states commencement on promulgation; the official closing page prints 30 Desember 2024, also stated in the JDIH detail record. PDF p. 7 is scanned with a source-supplied text layer, treated as OCR: the entire page was checked against the image without changing any word. One complete-text file includes the preamble, operative articles, closing and elucidation. The source lists this instrument as Berlaku and names no later amendment to it; this is the published instrument, with no consolidation of the instruments it changes.
 
 ## What AI did and did not do
 
@@ -102,3 +107,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the PDFs published on JDIH.
+- GPT-6 reviewed source metadata and full scanned closing pages for two instruments; wrote extraction code and documentation. No model wrote or corrected legal text.

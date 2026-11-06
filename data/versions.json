@@ -448,6 +448,34 @@
      "sha256": "b285ae150ba3d89f72de9cb17f637a7adb6bc95f4fed3ab8c8079fd74887ae9a"
     }
    ]
+  },
+  {
+   "slug": "perda-2024-010-pengelolaan-air-limbah-domestik",
+   "short": "Perda 10/2024",
+   "title": "Pengelolaan Air Limbah Domestik",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/14207",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2024PERDA003110.pdf",
+     "sha256": "ff751b8d8a2c645cf3f078bfbbcb5b840421eb6ec6952f364c4c948f45175249"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-011-perubahan-mrt-jakarta",
+   "short": "Perda 11/2024",
+   "title": "Perubahan atas Peraturan Daerah Nomor 9 Tahun 2018 tentang Perseroan Terbatas MRT Jakarta (Perseroan Daerah)",
+   "url": "https://jdih.jakarta.go.id/dokumen/detail/14208",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2024PERDA003111.pdf",
+     "sha256": "8ba466a8d5b01166518615642b9b529488405d6fc006337a58f819f80665465c"
+    }
+   ]
   }
  ]
 }

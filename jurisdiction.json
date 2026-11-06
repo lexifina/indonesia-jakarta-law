@@ -4,5 +4,5 @@
   "name": "Jakarta (Indonesia)",
   "level": "country",
   "repo": "https://github.com/lexifina/indonesia-jakarta-law",
-  "build": "built: Peraturan Daerah (Perda) of Provinsi Daerah Khusus Ibukota Jakarta as enacted, Indonesian text, from JDIH Provinsi DKI Jakarta (Biro Hukum Sekretariat Daerah Provinsi DKI Jakarta)"
+  "build": "built: Peraturan Daerah (Perda) of Provinsi Daerah Khusus Ibukota Jakarta as enacted, Indonesian text, from JDIH Provinsi DKI Jakarta (Biro Hukum Sekretariat Daerah Provinsi DKI Jakarta); Perda 10/2024 and 11/2024 include the complete instrument in one file, with verified source-supplied text on their scanned closing pages"
 }

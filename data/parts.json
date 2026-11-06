@@ -41,6 +41,13 @@
     "perda-2026-003-fasilitasi-pencegahan-dan-pemberantasan-penyalahgunaan-dan-peredaran"
    ],
    "sha256": "9980835c172f6dfb8df12071a4c513b11d802178b1e3803c410188d83b36b8cd"
+  },
+  "30-q186-breadth.json": {
+   "acts": [
+    "perda-2024-010-pengelolaan-air-limbah-domestik",
+    "perda-2024-011-perubahan-mrt-jakarta"
+   ],
+   "sha256": "7f7d6eacf9441b92f703217825fbf9f80b7a9ad8ad0ac849a9fab3e1f031693e"
   }
  },
  "schema": 1
